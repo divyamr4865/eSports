@@ -1,0 +1,25 @@
+.mg_tutback{
+	border-radius: 8px !important;
+	background-color: #003359 !important;
+	padding: 20px;
+}
+.ant-switch-checked{
+background-color:#82C786 !important;
+}
+.mgparent_srch{
+	display:flex;
+	justify-content: space-between;
+	align-items: center;
+	border-bottom: 2px dashed #fff;
+	padding-bottom: 15px;
+}
+.mgchild_srch{
+	display:flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.mg_head{
+	font-size: 18px;
+	color:#fff;
+}
+

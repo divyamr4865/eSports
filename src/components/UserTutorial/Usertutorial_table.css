@@ -1,0 +1,16 @@
+.cell_eye {
+  padding-left: 20px !important;
+}
+.tutorial_switch.ant-switch-checked{
+    background-color: #82C786 !important;
+  }
+
+  .tutorial_div{
+    border-bottom: 2px dashed #DBE2E7;
+   margin-top: 10px;
+}
+.manage_user_tut{
+	display:flex;
+	justify-content: space-between;
+	align-items: center;
+}

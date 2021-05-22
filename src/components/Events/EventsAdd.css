@@ -1,0 +1,93 @@
+.events_paper{
+border-radius: 8px !important;
+	background-color: #003359 !important;
+	padding: 20px;
+}
+.events_head{
+  font-size: 20px;
+  color:#fff;
+  margin-bottom: 10px;
+  padding-bottom: 5px;
+  border-bottom: 2px dashed #fff;
+}
+.textarea_div .formdiv .brdrcls {
+   height:65px !important;
+}
+.active{
+	font-size: 15px;
+	color:#fff;
+	padding-bottom: 5px;
+
+}
+.manage_tutorial_add{
+	padding: 0px 20px;
+}
+
+/*button css*/
+.button_css{
+	display:flex;
+	justify-content: flex-end;
+	align-items: center;
+	margin-top:10px;
+}
+.cancel_butt{
+	border:1px solid #E57475 !important;
+	background-color: #fff !important;
+	font-size: 15px !important;
+	color:#E57475 !important;
+	box-shadow: none !important;
+	border-radius: 2px !important;
+	margin-right: 20px !important;
+
+}
+.submit_butt{
+    background-color: #51C5F7 !important;
+	font-size: 15px !important;
+    margin-left: 10px;
+    color:#fff !important;
+    box-shadow: none !important;
+    border-radius: 2px !important
+	}
+.button_css .MuiButton-root{
+line-height: 1.90 !important;
+min-width: 110px !important;
+text-transform: none !important;	
+}
+/*end*/
+/*upload button css*/
+.browse_files .ant-upload{
+background-color: #fff;
+align-items: center;
+width:100%;
+line-height: 2.2 !important;
+border-radius: 2px !important;
+}
+.upload_butt{
+	display:flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.button_browse{
+	background-color: #51C5F7 !important;
+	color:#fff !important;
+}
+.browse_div .MuiButton-root{
+	line-height: 2.6 !important;
+	border-radius: 0px 2px 2px 0px !important;
+}
+.events_grid{
+	padding: 0px 15px 0px 15px;
+}
+.timepic_div .anticon svg{
+  fill: rgba(0, 0, 0, 0.65);	
+}
+.timepic_div .ant-time-picker{
+	width:100% !important;
+}
+.timepic_div .ant-time-picker-input{
+	border-radius: 2px !important;
+	padding:4px 4px !important;
+}
+.ant-time-picker-panel{
+z-index: 4550 !important;	
+}

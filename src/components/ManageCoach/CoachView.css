@@ -1,0 +1,166 @@
+
+
+.coach_content{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.coach_content .formdiv .labeltxt{
+  color: #C17B15;
+}
+.coach_content .formdiv .brdrcls{
+  background-color: #003359;
+  color:#DBE2E7;
+  font-size: inherit !important;
+  border: 0px;
+}
+.coach_content .formdiv .brdrcls::placeholder{
+  color: #DBE2E7;
+}
+.top.ant-switch-checked{
+  background-color: #82C786 !important;
+}
+.coach_status p{
+  color:#DBE2E7;
+  font-size: 13px;
+
+}
+.coach_head{
+  font-size: 15px;
+  margin-bottom: 10px;
+   color: #C17B15;
+}
+.coach_cnt{
+  font-size: 12px;
+}
+
+.profile_icon{
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+
+}
+
+.profile_icon .MuiAvatar-root{
+  width: 162px;
+  height: 162px;
+}
+
+.profile_name{
+  display: flex;
+  justify-content: center;
+}
+
+.profile_name h3{
+  color: #DBE2E7;
+  padding: 12px;
+}
+
+.coach_status{
+  display: flex;
+  justify-content: center;
+  margin-top: 45px;
+}
+
+.status_switch{
+  display: flex;
+  justify-content: center;
+
+}
+
+.coach_divider_two{
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 23px !important;
+  border-bottom:2px #DBE2E7 dashed !important;
+}
+
+.coach_divider{
+  margin-left: 20px;
+  margin-right: 20px;  
+  margin-top: 10px !important;
+  border-bottom:2px #DBE2E7 dashed !important;
+}
+
+.coach_content_two{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 20px;
+  width: 90%;
+}
+
+.coach_content_two .formdiv .labeltxt{
+  color: #C17B15;
+}
+.coach_content_two .formdiv .brdrcls{
+  background-color: #003359;
+  color:#DBE2E7;
+  font-size: inherit !important;
+  border: 0px;
+}
+.coach_content_two .formdiv .brdrcls::placeholder{
+  color: #DBE2E7;
+}
+
+.coach_buttons{
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 2% ;
+  margin-top:4% ;
+  width: 97%;
+}
+
+.coach_cancel{
+  background-color: #DBE2E7 !important ;
+  margin-right: 20px !important;
+  width: 156px;
+  height: 45px;
+  border:2px rgb(209, 53, 56);
+
+}
+.coach_cancel .MuiButton-label{
+  font-size: 16px;
+  color:#E57475
+}
+
+.coach_submit{
+  background-color:#51C5F7 !important;
+  color: #eee !important;
+  width: 156px;
+  height: 45px  
+}
+
+.coach_submit .MuiButton-label{
+  font-size: 16px;
+}
+.coach_add_title{
+  color: #DBE2E7;
+  font-size: 2rem;
+  margin: 15px;
+}
+
+.manage_coach{
+  /* box-shadow: 0px 0px 3.5px 0px #ccc; */
+  display: flex;
+  justify-content: space-between;
+ padding: 20px;
+}
+.close_coach{
+  position: relative;
+  right: 10px;
+  top: 15px;
+  font-size: 2.5rem !important;
+  cursor: pointer;
+color: #DBE2E7;
+}
+
+
+
+.coach_two{
+ 
+  display: flex;
+  justify-content: space-evenly;
+}

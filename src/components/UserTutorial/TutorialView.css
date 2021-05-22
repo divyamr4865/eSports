@@ -1,0 +1,187 @@
+.customer_modal .MuiDialog-paperWidthSm{
+  width: 90% !important;
+  background-color: #003359;
+  overflow: hidden;
+}
+.customer_modal .MuiDialog-paperScrollPaper{
+  max-height: 100% !important;
+}
+
+.user_tutorial{
+  display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.tutorial_content{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 20px;
+}
+
+
+.tutorial_content .formdiv .labeltxt{
+  color: #C17B15;
+  white-space: nowrap;
+}
+.tutorial_content .formdiv .brdrcls{
+  background-color: #003359;
+  color:#DBE2E7;
+  font-size: inherit !important;
+  border: 0px;
+}
+.tutorial_content .formdiv .brdrcls::placeholder{
+  color: #DBE2E7;
+}
+.tutorial_content_two{
+    display: flex;
+    justify-content: space-around;
+    align-items: center; 
+    margin-top: 40px; 
+}
+.tutorial_content_two .formdiv .labeltxt{
+  color: #C17B15;
+  white-space: nowrap;
+}
+.tutorial_content_two .formdiv .brdrcls{
+  background-color: #003359;
+  color:#DBE2E7;
+  font-size: inherit !important;
+  border: 0px;
+}
+.tutorial_content_two .formdiv .brdrcls::placeholder{
+  color: #DBE2E7;
+}
+
+.tutorial_content_single{
+  padding-left: 27px;
+}
+
+.tutorial_content_single .formdiv .labeltxt{
+  color: #C17B15;
+}
+.tutorial_content_single .formdiv .brdrcls{
+  background-color: #003359;
+  color:#DBE2E7;
+  font-size: inherit !important;
+  border: 0px;
+}
+.tutorial_content_single .formdiv .brdrcls::placeholder{
+  color: #DBE2E7;
+}
+
+.user_switch{
+  display: flex;
+  justify-content: center;
+margin-top: 80px;
+}
+
+.user_switch p{
+  color: #DBE2E7;
+  margin-bottom: 0px;
+}
+
+.top.ant-switch-checked{
+  background-color: #82C786 !important;
+}
+
+.tutorial_modal_div{
+  border-bottom: 2px dashed #DBE2E7;
+  margin-right: 26px;
+  margin-left: 26px;
+}
+
+
+.tutorial_buttons{
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 2% ;
+  margin-top:4% ;
+  width: 97%;
+}
+
+.tutorial_approve{
+  background-color: #DBE2E7 !important ;
+  margin-right: 20px !important;
+  width: 156px;
+  height: 45px;
+  border:2px #8FCC92;
+  border-radius: 2px !important;
+
+}
+.tutorial_approve .MuiButton-label{
+  font-size: 16px;
+  color:#8FCC92;
+}
+.tutorial_reject{
+  background-color: #DBE2E7 !important ;
+  margin-right: 20px !important;
+  width: 156px;
+  height: 45px;
+  border:2px rgb(209, 53, 56);
+  border-radius: 2px !important;
+
+}
+.tutorial_reject .MuiButton-label{
+  font-size: 16px;
+  color:#E57475;
+}
+
+.tutorial_back{
+  background-color:#51C5F7 !important;
+  color: #eee !important;
+  width: 156px;
+  height: 45px ; 
+  border-radius: 2px !important;
+}
+
+.tutorial_back .MuiButton-label{
+  font-size: 16px;
+}
+
+.tutorial_modal_div_two{
+border-bottom: 2px dashed #DBE2E7;
+    margin-right: 26px;
+    margin-left: 26px;
+    margin-top: 20px;
+}
+
+.tags{
+  display: flex;
+  flex-direction: column;
+  font-size: 15px;
+  color: #C17B15;
+  font-weight: 700;
+  width: 140px !important;
+}
+
+.chip_tag{
+margin-top: 12px;
+background-color: #3E6481 !important;
+border-radius: 3px !important;
+width: 80px;
+  height: 36px;
+}
+
+.chip_tag .MuiChip-label{
+  font-size: initial;
+  color: #9EB2C0;
+  
+  
+}
+.swictch_on{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+.tutorial_container{
+  padding:5px 23px;
+}
+
+
+
+
+
+
+

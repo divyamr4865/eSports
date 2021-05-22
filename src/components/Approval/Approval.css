@@ -1,0 +1,47 @@
+.mg_tutback{
+	border-radius: 8px !important;
+	background-color: #003359 !important;
+	padding: 20px;
+}
+.ant-switch-checked{
+background-color:#82C786 !important;
+}
+.md_cont{
+	
+	border-bottom: 2px dashed #fff;
+	padding-bottom: 15px;
+}
+.approval_cnt .formdiv{
+	padding-right: 20px;
+}
+.approval_cnt{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+
+}
+.app_head{
+	color: #fff;
+	padding-bottom: 5px;
+	font-size: 18px;
+}
+.mgchild_srch{
+	display:flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.mg_head{
+	font-size: 18px;
+	color:#fff;
+}
+/*add button*/
+.Add_tut{
+ background-color: #67BC6C;
+ font-size: 3rem !important;
+ border-radius: 2px;
+ fill:#fff !important;
+ margin-left: 10px;
+ cursor: pointer;
+ padding:2px;
+}
+

@@ -1,0 +1,32 @@
+/*search button*/
+.search_button .ant-btn-primary{
+    background-color: #4D708B !important;
+    border-color:#4D708B !important;
+    
+    }
+    .search_button{
+    border-radius: 2px !important;
+    }
+    .search_button .ant-btn{
+     padding:0px 10px !important;
+     font-size: 16px !important;
+    }
+    /*add button*/
+.Add_tut{
+    background-color: #67BC6C;
+    font-size: 3rem !important;
+    border-radius: 2px;
+    fill:#fff !important;
+    margin-left: 10px;
+    cursor: pointer;
+    padding:2px;
+   }
+   
+   .mg_tutback{
+	border-radius: 8px !important;
+	background-color: #003359 !important;
+	padding: 20px;
+}
+.ant-switch-checked{
+background-color:#82C786 !important;
+}

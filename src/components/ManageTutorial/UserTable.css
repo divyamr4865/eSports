@@ -1,0 +1,32 @@
+.user_table_cont .MuiTableCell-alignRight{
+ text-align: left !important;	
+}
+.user_table_cont .MuiTableCell-root{
+	border-bottom: 0px !important;
+
+}
+.show_entry{
+	display:flex;
+	align-items: center;
+	font-size: 15px;
+	color: black;
+}
+.side_head
+{
+    font-size: 20px;
+    color: #17a917;
+    padding-bottom: 15px;
+   }
+    .select_head{
+    padding:0px 5px 0px 5px;
+    }
+    .border_apply{
+    border-top:2px dashed #ffffff6b;
+    padding: 10px 0px 10px 0px;
+    margin-top: 10px;
+    }
+.show_entry_par{
+	display:flex;
+	align-items: center;
+	justify-content: space-between;
+}    

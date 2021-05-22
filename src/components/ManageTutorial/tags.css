@@ -1,0 +1,24 @@
+.tags_add .ant-tag{
+	line-height: 28px !important;
+	font-size: 13px !important;
+	border-radius: 2px !important;
+	background-color: #003359 !important;
+	color:#fff !important;
+	border:none !important;
+}
+.tags_add .ant-input{
+   height:28px !important;	
+   color:#fff !important;
+   background-color:#003359;
+   border:none !important;
+   border-radius: 2px !important;
+}
+.new_add{
+  color:#fff;	
+}
+.new_plus{
+	color:#fff;
+}
+.tags_add .ant-tag .anticon-close{
+	color:#fff !important;
+}

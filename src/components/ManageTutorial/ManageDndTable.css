@@ -1,0 +1,26 @@
+.dnd_table .ant-table-thead > tr > th,
+{
+	padding: 8px 8px !important;
+}
+.dnd_table .ant-table-thead > tr > th{
+  color:#FF9300 !important;	
+  background: none !important;
+  border-bottom: 0px !important;
+}
+.dnd_table .ant-table-tbody > tr > td{
+	border-bottom: 0px !important;
+	color: #fff !important;
+}
+.dnd_table .ant-table-thead > tr > th, .ant-table-tbody > tr > td
+{
+	padding: 8px 8px !important;
+}
+.dnd_table .ant-pagination{
+display:none;	
+}
+.dnd_table .ant-table-row tr:hover{
+	background: none !important;
+}
+.order_icon{
+	font-size: 3rem !important;
+}

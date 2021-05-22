@@ -1,0 +1,31 @@
+  .coach_header{
+    width: 100%;
+    background-color: #003359;
+    padding: 5px 20px;
+    font-size: 22px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color:#DBE2E7;
+    font-weight: 600;
+   padding: 25px;
+ }
+ 
+ .search_coach{
+   border: 0px !important;
+ }
+.search_coach .ant-input-search-icon{
+  margin: 5px 5px 5px 7px;
+  color: #DBE2E7;
+}
+.search_coach .ant-input-suffix{
+  background-color: #4D708B;
+  font-size: 20px;
+  
+}
+.search_coach .ant-input{
+  margin-left: 4px;
+
+}
+ 
+  

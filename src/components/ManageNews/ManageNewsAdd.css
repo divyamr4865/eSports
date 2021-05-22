@@ -1,0 +1,22 @@
+.manage_tutorial_add .active_swth{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+.manage_tutorial_add .active_radio{
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	padding-left: 20px !important;
+}
+.manage_tutorial_add .ant-radio-wrapper{
+  color:#fff !important;	
+}
+.manage_tutorial_add .ant-radio-inner::after
+{
+	background-color: #FF9300 !important;
+}
+.manage_tutorial_add .ant-radio-checked .ant-radio-inner{
+	border-color: #FF9300 !important;
+}

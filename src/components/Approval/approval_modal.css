@@ -1,0 +1,119 @@
+.container_div{
+    padding: 20px;
+}
+.approval_viewtitle{
+color: white;
+font-weight: 600;
+font-size: 28px;
+}
+.label_approvaldiv{
+    display: flex;
+  
+}
+.label_approval .labeltxt{
+color: #FF9300 !important; 
+}
+.label_approval .formdiv{
+    width: 80% !important;
+}
+.blank{
+    border-bottom:2px dashed #ffffff57;
+    margin-top: 20px;
+    
+}
+.tutorial_content_list{
+    display: flex;
+}
+.grid_maindiv{
+    margin-top: 10px;
+}
+.divgrid_approval{
+    color: white;
+    background-color: #e6e6e678;
+    margin-top: 10px;
+    width: 60%;
+    height: 25%;
+    border-bottom: 10px;
+    display: flex;
+    align-items: center;
+    padding:0px 5px 0px 5px;
+    justify-content: space-between;
+}
+.divgrid_approval2{
+    color: white; 
+    margin-top: 10px;
+    width: 60%;
+    height: 17%;
+    border-bottom: 10px;
+    display: flex;
+    align-items: center;
+    padding: 0px 5px 0px 5px;
+    justify-content: space-between;
+}
+.videos_title{
+    color: #FF9300;
+    font-size: 13px;
+}
+.view_icon{
+    
+    background-color: #51C5F7;
+    padding:3px;
+    font-size: 2rem !important;
+
+}
+.btn_div{
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    margin-top: 40px;
+/* background-color: white; */
+}
+.approve_btn .MuiButton-label{
+    color: #82C786 !important;
+    border-radius: 2px green !important;
+    /* border-color: green !important; */
+    font-size: 16px !important;
+    font-weight: 600 !important;
+}
+.approve_btn2 .MuiButton-label
+{
+    color: #E57475 !important;
+    /* border-radius: 2px green !important; */
+    /* border-color: green !important; */
+    font-size: 16px !important;
+    font-weight: 600 !important;
+}
+.approve_btn3 .MuiButton-label{
+    color: white !important;
+    /* border-radius: 2px green !important; */
+    /* border-color: green !important; */
+    font-size: 16px !important;
+    font-weight: 600 !important;
+}
+.approve_btndiv{
+    
+     background-color:white ;
+     margin-right: 20px;
+     border-radius: 2px;
+     
+    }
+.approve_btndiv2{
+
+    background-color: white ;
+    margin-right: 20px;
+    border-radius: 2px;
+    
+    }
+.approve_btndiv3{
+    border-radius: 2px;
+     background-color:#51C5F7 !important;
+
+}
+.btn_div .MuiButton-root{
+   min-width: 115px !important;
+   text-transform: none !important; 
+}
+.grid_maindiv h5{
+    color:#fff !important;
+    margin-top: 5px;
+}

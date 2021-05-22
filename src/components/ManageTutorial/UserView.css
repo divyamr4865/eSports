@@ -1,0 +1,107 @@
+
+ .card_userchg1{
+	color:#fff !important;
+	padding: 20px;
+	text-align: center;
+	font-size: 15px;
+	border:0px !important;
+	background: transparent linear-gradient(245deg, #00C2FC 0%, #00c1fc73 100%)  no-repeat padding-box;
+}
+.card_userchg2{
+	color:#fff !important;
+	padding: 20px;
+	text-align: center;
+	font-size: 15px;
+	border:0px !important;
+	 background: transparent linear-gradient(244deg, #0474FF 0%, #0074ff9e 100%) 0% 0% no-repeat padding-box;
+}
+.card_userchg3{
+	color:#fff !important;
+	padding: 20px;
+	text-align: center;
+	font-size: 15px;
+	border:0px !important;
+	background: transparent linear-gradient(64deg,  #0BDC5A 0%, #0BDC5A 100%) 0% 0% no-repeat padding-box;
+}
+.card_userchg4{
+	color:#fff !important;
+	padding: 20px;
+	text-align: center;
+	font-size: 15px;
+	border:0px !important;
+	    background: transparent linear-gradient(244deg, #664AE2 0%, #664AE2 100%) 0% 0% no-repeat padding-box;
+}
+.card_userchg5{
+	color:#fff !important;
+	padding: 20px;
+	text-align: center;
+	font-size: 15px;
+	border:0px !important;
+	    background: transparent linear-gradient(244deg, #FF2957 0%, #FF2957 100%) 0% 0% no-repeat padding-box;
+}
+.card_userchg6{
+	color:#fff !important;
+	padding: 20px;
+	text-align: center;
+	font-size: 15px;
+	border:0px !important;
+	background: transparent linear-gradient(244deg, #F9A932 0%, #F9A932 100%) 0% 0% no-repeat padding-box;
+}
+.div_use{
+	background-color: #fff !important;
+}
+
+
+
+
+
+
+.title_head_sam{
+ color:"#FF9300",
+}
+.numbers{
+	padding-top: 10px;
+}
+.inner_txtuser{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding-bottom: 10px;
+}
+.member_container{
+	padding: 5px 20px;
+}
+.active_mem{
+	padding:5px 20px;
+	font-size: 18px;
+	color:#FF9300;
+}
+.sel_wal{
+	width: 100% !important;
+	border-radius: 2px !important;
+}
+.sel_wal .ant-select-selection{
+	border-radius: 2px !important;
+}
+.cmt_div .formdiv .brdrcls{
+	height:60px !important;
+}
+.active_radio .ant-radio-wrapper{
+  color:#fff !important;	
+}
+.active_radio .ant-radio-inner::after
+{
+	background-color: #FF9300 !important;
+}
+.active_radio .ant-radio-checked .ant-radio-inner{
+	border-color: #FF9300 !important;
+}
+.cancel_user{
+border: 1px solid #E57475 !important;
+    background-color: #fff !important;
+    font-size: 15px !important;
+    color: #E57475 !important;
+    box-shadow: none !important;
+    border-radius: 2px !important;
+    margin-left: 20px !important;
+    }

@@ -1,0 +1,76 @@
+/* .default_background {
+  background-color: #ffecec;
+  width: 100%;
+} */
+
+.icon_editing {
+  background-color: #003975;
+  padding: 8px 13px;
+}
+.icon_editing_profile {
+  width: 100%;
+  background-color: #003975;
+  border-radius: 5px;
+  margin-left: 15px;
+  margin-block-start: auto;
+}
+
+.common_parentcard {
+  height: 100px;
+  width: 15%;
+  padding: 10px;
+    background-color: #4D708B !important;
+    border-radius: 3px !important;
+    color: #fff !important;
+    font-size: 15px;
+  text-align: center;
+  cursor: pointer;
+}
+
+
+.text_edit {
+  padding-left: 10px;
+  color: white;
+  font-weight: 500;
+  word-wrap: break-word;
+}
+
+.overall_card_align1 {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.overall_card_align2 {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 2px grey dashed;
+  padding-top: 12px;
+  padding-bottom: 22px;
+  margin-bottom: 12px;
+}
+.overall_card_align3 {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.paper_back {
+  padding:25px;
+  background-color: #003359 !important;
+  color: #fff !important;
+  border-radius:8px !important;
+}
+.video_text{
+  font-size: 18px;
+  color: #1b8bd7c4;
+}
+.approve{
+  color: #faad14;
+}
